@@ -1,8 +1,8 @@
 # Table Postgresql
 
-CREATE TABLE students (id SERIAL PRIMARY KEY, name TEXT);\n
-INSERT INTO students (name) VALUES ('Elie');\n
-INSERT INTO students (name) VALUES ('Michael');\n
-INSERT INTO students (name) VALUES ('Joel');\n
-INSERT INTO students (name) VALUES ('Matt');\n
+CREATE TABLE students (id SERIAL PRIMARY KEY, name TEXT);<br/>;
+INSERT INTO students (name) VALUES ('Elie');<br/>;
+INSERT INTO students (name) VALUES ('Michael');<br/>;
+INSERT INTO students (name) VALUES ('Joel');<br/>;
+INSERT INTO students (name) VALUES ('Matt');<br/>;
 \q
